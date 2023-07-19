@@ -104,8 +104,7 @@ def answer(
 
 def main():
     '''
-    This function gets the user input, passes it to the ChatGPT function and
-    displays the response
+    test
     '''
     openai.api_key = st.secrets['OPENAI_KEY']
 
